@@ -1,12 +1,12 @@
 {
-  "time": "2024-03-15T10:30:45.123Z",
   "device": {
     "id": "sensor-001",
     "state": "active"
   },
+  "time": "2024-03-15T10:30:45.123Z",
   "data": [
-    {"type": "temperature", "value": 22.5},
-    {"type": "humidity", "value": 65.3},
-    {"type": "pressure", "value": 1013.25}
+    { "type": "temperature", "value": 22.5 },
+    { "type": "humidity", "value": 65.3 },
+    { "type": "pressure", "value": 1013.25 }
   ]
 }
