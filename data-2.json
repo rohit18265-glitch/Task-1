@@ -1,0 +1,12 @@
+{
+  "time": "2024-03-15T08:45:00Z",
+  "device": {
+    "id": "device-001",
+    "state": "active"
+  },
+  "data": [
+    {"type": "temperature", "value": 22.5},
+    {"type": "humidity", "value": 60.0},
+    {"type": "pressure", "value": 1013.25}
+  ]
+}
