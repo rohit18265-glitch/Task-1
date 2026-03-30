@@ -1,0 +1,10 @@
+{
+  "deviceId": "device-001",
+  "timestamp": "2024-03-15T08:45:00Z",
+  "measurements": {
+    "temperature": 22.5,
+    "humidity": 60.0,
+    "pressure": 1013.25
+  },
+  "status": "active"
+}
